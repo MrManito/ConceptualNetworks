@@ -10,17 +10,6 @@ Esta es una aplicación de escritorio que permite crear redes conceptuales a par
 - Exporta las redes conceptuales en varios formatos, incluyendo imágenes y archivos PDF.(En desarrollo)
 - Guarda y carga proyectos para continuar trabajando en ellos más tarde.(En desarrollo)
 
-## Capturas de pantalla
-
-![Captura de Pantalla 1](screenshots/Screenshot1.png)
-_Ventana de gestión de archivos y URL._
-
-![Captura de Pantalla 2](screenshots/Screenshot2.png)
-_Ventana para añadir palabras que se ignoraran en el análisis._
-
-![Captura de Pantalla 3](screenshots/Screenshot3.png)
-_Ventana de estadísticas, contiene la tabla con la cuenta de las palabras._
-
 ## Uso
 1. Abre la aplicación.
 2. Importa archivos de texto, documentos o introduce enlaces URL para comenzar a construir tu red conceptual.
@@ -66,11 +55,3 @@ cd Codigo/View
 ```bash
 python main.py
 ```
-
-### Ejecutable
-
-También se puede ejecutar a través del ejecutable
-
-| Versión | Descripción                               | Enlace de Descarga |
-|---------|-------------------------------------------|--------------------|
-| v1.0.0  | Primera versión Alpha - Microsoft Windows | [Descargar ZIP](https://github.com/RonaldoVindas/Chirulitos-ProyectoIngenieriaSoftwareTECS2-2023/releases/tag/public) |
